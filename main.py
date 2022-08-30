@@ -1,3 +1,4 @@
+#!/bin/python3
 from PyQt6.QtWidgets import QApplication, QMainWindow, QLabel
 
 from src.config import ConfigLoader
